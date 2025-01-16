@@ -34,7 +34,7 @@ const Footer = () => {
 
         </div>
         <hr className="border-t-2 border-gray-300 my-10" />
-        <p className='text-xl'>2022 Kinza Khan. All rights reverved</p>
+        <p className='text-xl'>2022 khadija. All rights reverved</p>
     </footer>
   )
 }
